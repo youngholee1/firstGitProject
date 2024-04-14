@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(DemoApplication.class, args);// run
+		SpringApplication.run(DemoApplication.class, args);// run 지민 feature B
 	}
 
 }
